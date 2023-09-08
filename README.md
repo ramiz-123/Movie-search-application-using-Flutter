@@ -15,3 +15,4 @@ Create a services folder and add a movie_service.dart file to handle API request
 Step 4: Create the Homepage
 
 Design your homepage to display the top-rated movies. Create a models folder and define a Movie class to represent movie data
+Now, create the homepage with a list of top-rated movies:
